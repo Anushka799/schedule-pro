@@ -1,4 +1,5 @@
-# 4N EcoTech - Development of a Scheduling Platform<img width="700" height="80" alt="image" src="https://github.com/user-attachments/assets/787312b2-e2bb-4cce-8eeb-da2e999938d1" />
+# 4N EcoTech - Online Scheduling Platform
+
 
 
 A premium, modern appointment scheduling platform that allows users to manage their availability and let others book meetings effortlessly.
